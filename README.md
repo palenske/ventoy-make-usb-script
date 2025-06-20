@@ -25,7 +25,7 @@ sudo pacman -S wget tar util-linux
 
 1. **Baixe o script:**
 ```bash
-wget https://raw.githubusercontent.com/seu-usuario/ventoy-usb-script/main/criar_usb_ventoy.sh
+wget https://raw.githubusercontent.com/palenske/ventoy-usb-script/main/criar_usb_ventoy.sh
 ```
 
 2. **Torne executável:**
